@@ -69,7 +69,6 @@
     <header>
         <h1>Hi 👋, I'm Ashiq S</h1>
         <h3>A passionate Software developer from Kerala</h3>
-        <div class="tenor-gif-embed" data-postid="16811766" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/press-button-laser-nope-gif-16811766">Press Button GIF</a>from <a href="https://tenor.com/search/press-gifs">Press GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     </header>
     <section>
         <h3>About Me</h3>
