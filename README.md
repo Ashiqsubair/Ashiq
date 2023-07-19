@@ -69,7 +69,7 @@
     <header>
         <h1>Hi 👋, I'm Ashiq S</h1>
         <h3>A passionate Software developer from Kerala</h3>
-        <img src="gif.gif" alt="ashiq" />
+        <img src="Bm7C.gif" alt="ashiq" />
     </header>
     <section>
         <h3>About Me</h3>
